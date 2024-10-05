@@ -1233,4 +1233,4 @@ Throws an error if the verification fails.
 | ----- | ------------------- | ---------------------------------------------- |
 | claim | <code>String</code> | A did-JWT claim ownership of an email username |
 
-# test commit 2
+# test commit 3
